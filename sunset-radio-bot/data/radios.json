@@ -1,0 +1,202 @@
+[
+  {
+    "name": "Japanese Music ID",
+    "url": "https://stream.japanesemusicid.com/live/1/"
+  },
+  {
+    "name": "Phoenix Radio Bali",
+    "url": "https://live.phoenixradiobali.com:8250/phoenixradio"
+  },
+  {
+    "name": "J-Pop Sakura FM",
+    "url": "https://listen.moe/stream"
+  },
+  {
+    "name": "JakFM",
+    "url": "https://wz.mari.co.id:1936/web_jakfm/jakfm/playlist.m3u8"
+  },
+  {
+    "name": "J-Pop Powerplay",
+    "url": "https://kathy.torontocast.com:3560/stream/1/"
+  },
+  {
+    "name": "J-Pop Powerplay Kawaii",
+    "url": "https://kathy.torontocast.com:3060/stream/1/"
+  },
+  {
+    "name": "Gdynia Radio",
+    "url": "http://51.255.8.139:8064/stream/1/"
+  },
+  {
+    "name": "LRT809 Elite FM 101.5 General Cabrera",
+    "url": "http://radios.solumedia.com/6314/stream"
+  },
+  {
+    "name": "FUN Radio Live",
+    "url": "http://stream.funradio.sk:8000/fun128.mp3"
+  },
+  {
+    "name": "RADIO ENERGY",
+    "url": "http://stream.radioreklama.bg/nrj128"
+  },
+  {
+    "name": "Russkie Pesni",
+    "url": "http://listen.rusongs.ru/ru-mp3-128"
+  },
+  {
+    "name": "RADIO BGRADIO",
+    "url": "http://stream.radioreklama.bg/bgradio128"
+  },
+  {
+    "name": "RADIO 1",
+    "url": "http://stream.radioreklama.bg/radio1128"
+  },
+  {
+    "name": "Radio Dacha Volgodonsk",
+    "url": "http://listen.vdfm.ru:8000/dacha"
+  },
+  {
+    "name": "Zakarpattya FM",
+    "url": "http://195.234.148.51:8000/stream/1/"
+  },
+  {
+    "name": "Radio Popular Romania",
+    "url": "https://livessl.radiopopular.ro:7777/stream/1/"
+  },
+  {
+    "name": "Passazh Moskva",
+    "url": "http://listen.radiopassazh.ru:8005/aac-64"
+  },
+  {
+    "name": "PAL STATION",
+    "url": "http://shoutcast.radyogrup.com:1020/stream/1/"
+  },
+  {
+    "name": "PAL FM",
+    "url": "http://shoutcast.radyogrup.com:1030/stream/1/"
+  },
+  {
+    "name": "Radio FM4",
+    "url": "https://orf-live.ors-shoutcast.at/fm4-q2a"
+  },
+  {
+    "name": "TURKULERLE TURKIYE",
+    "url": "http://37.247.98.8/stream/22/"
+  },
+  {
+    "name": "Radio VivaFm",
+    "url": "http://stream2.vivafm.it:8002/stream/1/"
+  },
+  {
+    "name": "RADYO V",
+    "url": "http://46.20.3.230:80"
+  },
+  {
+    "name": "FUN Radio CS",
+    "url": "http://stream.funradio.sk:8000/cs128.mp3"
+  },
+  {
+    "name": "Internet Radio Lele Male",
+    "url": "http://79.98.108.170:8332/stream/1/"
+  },
+  {
+    "name": "The Big 80s Station",
+    "url": "http://158.69.114.190:8065/stream/1/"
+  },
+  {
+    "name": "Energy 90s",
+    "url": "http://stream.radioreklama.bg/energy-90s"
+  },
+  {
+    "name": "Streaming Radio FM Latina 101",
+    "url": "http://streaming.latina101.com.ar:9000/Repetidoras"
+  },
+  {
+    "name": "Radyo Romantik Türk",
+    "url": "http://radyo.yayin.com.tr:6042/stream/1/"
+  },
+  {
+    "name": "RADIO CITY",
+    "url": "http://stream.radioreklama.bg/city128"
+  },
+  {
+    "name": "MuzFM",
+    "url": "http://live.muzfm.md:8000/muzfm"
+  },
+  {
+    "name": "Interativa FM",
+    "url": "http://suaradio1.dyndns.ws:13551/stream"
+  },
+  {
+    "name": "Bylgjan",
+    "url": "http://icecast.visir.is:8000/orbbylgjan.aac"
+  },
+  {
+    "name": "Katolickie Radio Via",
+    "url": "http://62.133.128.18:8040/stream/1/"
+  },
+  {
+    "name": "TruckSimFM",
+    "url": "http://radio.trucksim.fm:8000/stream/1/"
+  },
+  {
+    "name": "Radio VIVA",
+    "url": "http://stream.sepia.sk:8000/viva128.mp3"
+  },
+  {
+    "name": "RADIO MI PIACI",
+    "url": "http://nr6.newradio.it:9182/stream/1/"
+  },
+  {
+    "name": "LATINO FM EN DIRECTO",
+    "url": "http://185.23.192.118:8000/stream/1/"
+  },
+  {
+    "name": "Radio Globus",
+    "url": "http://185.156.96.217:10004/stream/1/"
+  },
+  {
+    "name": "MB STUDIO",
+    "url": "http://stream15.top-ix.org:80/radiotorinointernational"
+  },
+  {
+    "name": "RADIO VALLEBELBO",
+    "url": "http://nr9.newradio.it:9581/stream/1/"
+  },
+  {
+    "name": "MAGIC MALTA",
+    "url": "http://s46.myradiostream.com:6076/stream/1/"
+  },
+  {
+    "name": "Radio ZENIT 100.7 FM",
+    "url": "http://5.189.168.133:8020/stream/1/"
+  },
+  {
+    "name": "Feel Good Radio",
+    "url": "http://94.23.148.11:8344/stream/1/"
+  },
+  {
+    "name": "iFM Narodni Radio Topola Oplenac",
+    "url": "http://91.228.254.72:7000/stream/1/"
+  },
+  {
+    "name": "DENGERIN MUSIK INDONESIA",
+    "url": "http://stream.denger.in:8888/dmi_autodj"
+  },
+  {
+    "name": "Radio Ostrowiec",
+    "url": "http://s1.slotex.pl:7050/stream/1/"
+  },
+  {
+    "name": "Radio Ultra",
+    "url": "http://88.80.96.25:8020"
+  },
+  {
+    "name": "Box UK Radio danceradiouk",
+    "url": "http://51.75.170.46:6191/stream/1/"
+  },
+  {
+    "name": "ANTENA1 94.7 FM",
+    "url": "http://antena1.newradio.it/stream/1/"
+  }
+]
